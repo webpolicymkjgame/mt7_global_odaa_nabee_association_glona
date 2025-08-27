@@ -41,9 +41,9 @@ function Header() {
 function HomePage() {
   const apps = [
     {
-      name: 'Money Tracker: Expense Planner',
+      name: 'Money Manager Budget App',
       image: money,
-      link: 'https://play.google.com/store/apps/details?id=com.moneymanager.expensetracker.moneytracker.spendingtracker.budgetplanner.walletmanager'
+      link: 'https://play.google.com/store/apps/details?id=com.financialplanning.incomtracker.moneytracker.personalfinance.budgetplan.financial'
     }
   ];
 
